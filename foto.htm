@@ -32,8 +32,8 @@
      .sp3 { height: 9px; }
    </style>
    <script type="module">
-     var ndb = 2;                  // отображение 1=imgbb; 2=comss;
-     var tbl = "zero";             // текущий отображаемый блок
+     var ndb = 2;                  // отображение 1=github; 2=zonerama;
+     var tbl = "zonerama";             // текущий отображаемый блок
      window.onload = function() {
        serv1.innerText = tbl;
        clzs();                     // смена сайта источника фото
@@ -47,8 +47,8 @@
      function clzs() {
        ndb+=1;
        if(ndb> 2) { ndb=1; }
-       if(ndb==1) { skyf.innerText="zoner"; a1960.href="show.htm?__Фото__1960-е__#__fotz/1960-et"; a1970.href="show.htm?__Фото__1970-е__#__fotz/1970-et"; }
-       if(ndb==2) { skyf.innerText="comss"; a1960.href="show.htm?__Фото__1960-е__#__fotc/1960-et"; a1970.href="show.htm?__Фото__1960-е__#__fotc/1970-et"; }
+       if(ndb==1) { skyf.innerText="github"; a1960.href="show.htm?__Фото__1960-е__#__git1/1960-et"; a1970.href="show.htm?__Фото__1970-е__#__git1/1970-et"; }
+       if(ndb==2) { skyf.innerText="zonerama"; a1960.href="show.htm?__Фото__1960-е__#__fotz/1960-et"; a1970.href="show.htm?__Фото__1960-е__#__fotz/1970-et"; }
        tbl.length==4 ? tbl+="c" : tbl=tbl.substr(0,4)
        allnone(tbl);
      }
