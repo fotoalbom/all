@@ -1,0 +1,17 @@
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-01t.jpg</i><b>BW09-01t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-02t.jpg</i><b>BW09-02t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-03t.jpg</i><b>BW09-03t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-04t.jpg</i><b>BW09-04t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-05t.jpg</i><b>BW09-05t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-06t.jpg</i><b>BW09-06t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-07t.jpg</i><b>BW09-07t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-08t.jpg</i><b>BW09-08t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-09t.jpg</i><b>BW09-09t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-10t.jpg</i><b>BW09-10t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-11t.jpg</i><b>BW09-11t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-12t.jpg</i><b>BW09-12t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-13t.jpg</i><b>BW09-13t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-14t.jpg</i><b>BW09-14t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-15t.jpg</i><b>BW09-15t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-16t.jpg</i><b>BW09-16t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1982-BW09rt-FEBRUARY/BW09-17t.jpg</i><b>BW09-17t.jpg</b>');
