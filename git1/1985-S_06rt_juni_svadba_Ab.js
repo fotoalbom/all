@@ -1,0 +1,14 @@
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S030rt.jpg</i><b>1985-S030rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S031rt.jpg</i><b>1985-S031rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S032rt.jpg</i><b>1985-S032rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S033rt.jpg</i><b>1985-S033rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S034rt.jpg</i><b>1985-S034rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S035rt.jpg</i><b>1985-S035rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S036rt.jpg</i><b>1985-S036rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S037rt.jpg</i><b>1985-S037rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S038rt.jpg</i><b>1985-S038rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S039rt.jpg</i><b>1985-S039rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S040rt.jpg</i><b>1985-S040rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S041rt.jpg</i><b>1985-S041rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S042rt.jpg</i><b>1985-S042rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1985-S_06rt_juni_svadba_Ab/1985-S068rt.jpg</i><b>1985-S068rt.jpg</b>');

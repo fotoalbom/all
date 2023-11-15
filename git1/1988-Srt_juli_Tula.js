@@ -1,0 +1,12 @@
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S018rt.jpg</i><b>1988-S018rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S211t.jpg</i><b>1988-S211t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S229t.jpg</i><b>1988-S229t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S231t.jpg</i><b>1988-S231t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S232t.jpg</i><b>1988-S232t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S233t.jpg</i><b>1988-S233t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S234t.jpg</i><b>1988-S234t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S235t.jpg</i><b>1988-S235t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S236t.jpg</i><b>1988-S236t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S237t.jpg</i><b>1988-S237t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S238t.jpg</i><b>1988-S238t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1988-Srt_juli_Tula/1988-S239t.jpg</i><b>1988-S239t.jpg</b>');

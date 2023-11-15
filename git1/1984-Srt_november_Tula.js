@@ -1,0 +1,11 @@
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1984-Srt_november_Tula/1984-S001t.jpg</i><b>1984-S001t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1984-Srt_november_Tula/1984-S151t.jpg</i><b>1984-S151t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1984-Srt_november_Tula/1984-S153t.jpg</i><b>1984-S153t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1984-Srt_november_Tula/1984-S155t.jpg</i><b>1984-S155t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1984-Srt_november_Tula/1984-S158t.jpg</i><b>1984-S158t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1984-Srt_november_Tula/1984-S159t.jpg</i><b>1984-S159t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1984-Srt_november_Tula/1984-S160t.jpg</i><b>1984-S160t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1984-Srt_november_Tula/1984-S161t.jpg</i><b>1984-S161t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1984-Srt_november_Tula/1984-S162t.jpg</i><b>1984-S162t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1984-Srt_november_Tula/1984-S163t.jpg</i><b>1984-S163t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1980-et/1984-Srt_november_Tula/1984-S164t.jpg</i><b>1984-S164t.jpg</b>');
