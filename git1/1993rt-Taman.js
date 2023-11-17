@@ -1,0 +1,16 @@
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-01rt.jpg</i><b>1993-07-01rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-02rt.jpg</i><b>1993-07-02rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-03rt.jpg</i><b>1993-07-03rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-04rt.jpg</i><b>1993-07-04rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-05rt.jpg</i><b>1993-07-05rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-06rt.jpg</i><b>1993-07-06rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-07rt.jpg</i><b>1993-07-07rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-08rt.jpg</i><b>1993-07-08rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-09rt.jpg</i><b>1993-07-09rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-10rt.jpg</i><b>1993-07-10rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-11rt.jpg</i><b>1993-07-11rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-12rt.jpg</i><b>1993-07-12rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-13rt.jpg</i><b>1993-07-13rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-14rt.jpg</i><b>1993-07-14rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-15rt.jpg</i><b>1993-07-15rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Taman/1993-07-16rt.jpg</i><b>1993-07-16rt.jpg</b>');

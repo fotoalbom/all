@@ -1,0 +1,12 @@
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-01t.jpg</i><b>1998-CN11-01t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-02t.jpg</i><b>1998-CN11-02t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-03t.jpg</i><b>1998-CN11-03t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-04t.jpg</i><b>1998-CN11-04t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-05t.jpg</i><b>1998-CN11-05t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-06t.jpg</i><b>1998-CN11-06t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-07t.jpg</i><b>1998-CN11-07t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-08t.jpg</i><b>1998-CN11-08t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-09t.jpg</i><b>1998-CN11-09t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-10t.jpg</i><b>1998-CN11-10t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-11t.jpg</i><b>1998-CN11-11t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1998-CN11t-3678-TULA-TAMAN/1998-CN11-12t.jpg</i><b>1998-CN11-12t.jpg</b>');

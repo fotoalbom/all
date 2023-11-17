@@ -1,0 +1,15 @@
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2001-01-01-Leot.jpg</i><b>2001-01-01-Leot.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2002-L1t.jpg</i><b>2002-L1t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2004-01-27URt.jpg</i><b>2004-01-27URt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2004-01-27Ut.jpg</i><b>2004-01-27Ut.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2005-ULt.jpg</i><b>2005-ULt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2007-ALt.jpg</i><b>2007-ALt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2007-ULt.jpg</i><b>2007-ULt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2008-ALt.jpg</i><b>2008-ALt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2008-ULt.jpg</i><b>2008-ULt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2008-Ut.jpg</i><b>2008-Ut.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2009-A1t.jpg</i><b>2009-A1t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2009-A2t.jpg</i><b>2009-A2t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2009-ULt.jpg</i><b>2009-ULt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2010-ALt.jpg</i><b>2010-ALt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/200Xt/2010-UR_rest.jpg</i><b>2010-UR_rest.jpg</b>');

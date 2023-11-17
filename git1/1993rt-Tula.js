@@ -1,0 +1,15 @@
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-01t.jpg</i><b>1993-06-01t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-02t.jpg</i><b>1993-06-02t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-03t.jpg</i><b>1993-06-03t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-04t.jpg</i><b>1993-06-04t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-05t.jpg</i><b>1993-06-05t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-06t.jpg</i><b>1993-06-06t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-07t.jpg</i><b>1993-06-07t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-08t.jpg</i><b>1993-06-08t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-09t.jpg</i><b>1993-06-09t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-10t.jpg</i><b>1993-06-10t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-11t.jpg</i><b>1993-06-11t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-12t.jpg</i><b>1993-06-12t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-13t.jpg</i><b>1993-06-13t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-14t.jpg</i><b>1993-06-14t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/1990-et/1993rt-Tula/1993-06-15t.jpg</i><b>1993-06-15t.jpg</b>');

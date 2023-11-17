@@ -1,0 +1,16 @@
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-01t.jpg</i><b>2002-CN22-01t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-02t.jpg</i><b>2002-CN22-02t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-03t.jpg</i><b>2002-CN22-03t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-04t.jpg</i><b>2002-CN22-04t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-05t.jpg</i><b>2002-CN22-05t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-06t.jpg</i><b>2002-CN22-06t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-07t.jpg</i><b>2002-CN22-07t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-08t.jpg</i><b>2002-CN22-08t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-09t.jpg</i><b>2002-CN22-09t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-10t.jpg</i><b>2002-CN22-10t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-11t.jpg</i><b>2002-CN22-11t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-12t.jpg</i><b>2002-CN22-12t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-13t.jpg</i><b>2002-CN22-13t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-14t.jpg</i><b>2002-CN22-14t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-15t.jpg</i><b>2002-CN22-15t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2002-CN22t-9998-VORKUTA-TAMAN/2002-CN22-16t.jpg</i><b>2002-CN22-16t.jpg</b>');

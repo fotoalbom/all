@@ -1,0 +1,12 @@
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-01t.jpg</i><b>2003-CN24-01t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-02t.jpg</i><b>2003-CN24-02t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-03t.jpg</i><b>2003-CN24-03t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-04t.jpg</i><b>2003-CN24-04t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-05t.jpg</i><b>2003-CN24-05t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-06t.jpg</i><b>2003-CN24-06t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-07t.jpg</i><b>2003-CN24-07t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-08t.jpg</i><b>2003-CN24-08t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-09t.jpg</i><b>2003-CN24-09t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-10t.jpg</i><b>2003-CN24-10t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-11t.jpg</i><b>2003-CN24-11t.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2003-CN24t-1654-TAMAN/2003-CN24-12t.jpg</i><b>2003-CN24-12t.jpg</b>');

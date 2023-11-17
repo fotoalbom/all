@@ -1,0 +1,10 @@
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2005-CN30t-2066-VORKUTA/2005-CN30-01art.jpg</i><b>2005-CN30-01art.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2005-CN30t-2066-VORKUTA/2005-CN30-01rt.jpg</i><b>2005-CN30-01rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2005-CN30t-2066-VORKUTA/2005-CN30-02art.jpg</i><b>2005-CN30-02art.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2005-CN30t-2066-VORKUTA/2005-CN30-02rt.jpg</i><b>2005-CN30-02rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2005-CN30t-2066-VORKUTA/2005-CN30-03art.jpg</i><b>2005-CN30-03art.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2005-CN30t-2066-VORKUTA/2005-CN30-03rt.jpg</i><b>2005-CN30-03rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2005-CN30t-2066-VORKUTA/2005-CN30-04rt.jpg</i><b>2005-CN30-04rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2005-CN30t-2066-VORKUTA/2005-CN30-05rt.jpg</i><b>2005-CN30-05rt.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2005-CN30t-2066-VORKUTA/2005-CN30-06art.jpg</i><b>2005-CN30-06art.jpg</b>');
+document.write('<i>https://raw.githubusercontent.com/fotalb/fot/main/2000-et/2005-CN30t-2066-VORKUTA/2005-CN30-06rt.jpg</i><b>2005-CN30-06rt.jpg</b>');
