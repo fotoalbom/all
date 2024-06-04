@@ -44,6 +44,7 @@
      zb2000.onclick = function() { ndb==1 ? allnone('2000') : allnone('2000c') }
      zb2010.onclick = function() { ndb==1 ? allnone('2010') : allnone('2010c') }
      zb2020.onclick = function() { ndb==1 ? allnone('2020') : allnone('2020c') }
+     zb9999.onclick = function() { ndb==1 ? allnone('9999') : allnone('9999c') }
      function clzs() {
        ndb+=1;
        if(ndb> 2) { ndb=1; }
@@ -59,6 +60,7 @@
        bl2000.style.display='none'; bl2000c.style.display='none';
        bl2010.style.display='none'; bl2010c.style.display='none';
        bl2020.style.display='none'; bl2020c.style.display='none';
+       bl9999.style.display='none'; bl9999.style.display='none';
        tbl = sp1;
        eval("bl"+sp1+".style.display='block'");
      }
@@ -74,10 +76,22 @@
     <div id='zb2000' class="bt"><center>2000-e</center></div> <div class="sp1"> </div>
     <div id='zb2010' class="bt"><center>2010-e</center></div> <div class="sp1"> </div>
     <div id='zb2020' class="bt"><center>2020-e</center></div> <div class="sp1"> </div>
-    <a class="bm" href=show.htm?foto__1960-et target=_blank> &nbsp; &nbsp; &nbsp; &nbsp;Разное &nbsp; &nbsp; &nbsp; </a><div class="sp1"> </div>
+    <div id='zb9999' class="bt"><center>Разное</center></div> <div class="sp1"> </div>
+<!--    <a class="bm" href=show.htm?foto__1960-et target=_blank> &nbsp; &nbsp; &nbsp; &nbsp;Разное0 &nbsp; &nbsp; &nbsp; </a><div class="sp1"> </div> -->
+<!--    <a class="bm" href="https://i.getspace.by/cloud/s/BTEsWpZcYPL8jXi" target=_blank> &nbsp; &nbsp; &nbsp; &nbsp;РазноеN &nbsp; &nbsp; &nbsp; </a><div class="sp1"> </div> -->
     <a class="bm" href=show.htm?Припять__1инстр target=_blank>&nbsp; Управление &nbsp; </a><div class="sp1"> </div>
     <div id="blzero"  style="position:absolute; top:10px; left:410px; display: none"> </div>
     <div id="blzeroc" style="position:absolute; top:10px; left:410px; display: none"> </div>
+    <div id="bl9999" style="position:absolute; top:10px; left:410px; display: none">
+        <a class="bm" href="https://i.getspace.by/cloud/s/9rkiG6MjPMHFZqY" target=_blank>&nbsp;&nbsp;Воркута_2023&nbsp;&nbsp;</a><div class="sp3"> </div>
+        <a class="bm" href="https://i.getspace.by/cloud/s/MrTrLXg2bXZk4z8" target=_blank>&nbsp;&nbsp;Воркута_2024&nbsp;&nbsp;</a><div class="sp3"> </div>
+        <a class="bm" href="https://i.getspace.by/cloud/s/xxbwcDFKPNydaD2" target=_blank>&nbsp;&nbsp;Воркута&nbsp;&nbsp;</a><div class="sp3"> </div>
+        <a class="bm" href="https://i.getspace.by/cloud/s/6BZg2wMeoJN4A7o" target=_blank>&nbsp;&nbsp;Воркута_ретро&nbsp;&nbsp;</a><div class="sp3"> </div>
+        <a class="bm" href="https://i.getspace.by/cloud/s/Hb8brBSWGsZpetX" target=_blank>&nbsp;&nbsp;Щекино&nbsp;&nbsp;</a><div class="sp3"> </div>
+        <a class="bm" href="https://i.getspace.by/cloud/s/fPsPTrLsLQxLzdG" target=_blank>&nbsp;&nbsp;Школьная1&nbsp;&nbsp;</a><div class="sp3"> </div>
+        <a class="bm" href="https://i.getspace.by/cloud/s/Xtc4bZi2Nz4Dtdk" target=_blank>&nbsp;&nbsp;ВГФЭ&nbsp;&nbsp;</a><div class="sp3"> </div>
+        <a href="https://i.getspace.by/cloud/s/BTEsWpZcYPL8jXi" target=_blank> &nbsp; &nbsp; &nbsp; &nbsp; </a><div class="sp3"> </div>
+    </div>
     <div id="bl1980" style="position:absolute; top:10px; left:410px; display: none">
     <a class="bm" href=show.htm?__Фото__1980-BW01_Тула__#__git1/1980-BW01rt-TULA target=_blank>&nbsp;&nbsp;1980_Тула_Свердлова&nbsp;&nbsp;</a><div class="sp3"> </div>
     <a class="bm" href=show.htm?__Фото__1980-BW02_Путина__#__git1/1980-BW02rt-PUTINA target=_blank>&nbsp;&nbsp;1980_Новый_год_у_Путиных&nbsp;&nbsp;</a><div class="sp3"> </div>
